@@ -1,0 +1,7 @@
+{
+  "name": "Test LLM Screening Verify 2",
+  "description": "Second throwaway agent to see the detailed Anthropic API error.",
+  "system_prompt": "You are a harmless test agent used only to verify CI screening.",
+  "color": "#4caf50",
+  "submitted_by_github": "Minister-Ballew"
+}
