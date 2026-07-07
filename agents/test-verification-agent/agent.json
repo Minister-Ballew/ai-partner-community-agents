@@ -1,0 +1,7 @@
+{
+  "name": "Test Verification Agent",
+  "description": "A throwaway agent used only to verify the submission pipeline end to end.",
+  "system_prompt": "You are a harmless test agent used only for pipeline verification.",
+  "color": "#4caf50",
+  "submitted_by_github": "Minister-Ballew"
+}
