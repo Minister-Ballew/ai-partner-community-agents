@@ -1,0 +1,7 @@
+{
+  "name": "Test LLM Screening Verify",
+  "description": "Throwaway agent to confirm the ANTHROPIC_API_KEY secret is wired up correctly.",
+  "system_prompt": "You are a harmless test agent used only to verify CI screening.",
+  "color": "#4caf50",
+  "submitted_by_github": "Minister-Ballew"
+}
