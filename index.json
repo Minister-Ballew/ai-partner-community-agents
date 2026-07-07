@@ -4,7 +4,7 @@
     "name": "Code Reviewer",
     "description": "Reviews a pasted code snippet for bugs, readability, and best practices, and suggests concrete fixes.",
     "submitted_by_github": "ai-partner-official",
-    "commit_sha": "fc374c5d5d22aae0fd17789fd10cf59fc57a1295",
+    "commit_sha": "096c5a879a192b90ed22dd91be380d54eb838d6f",
     "comments_issue": 7
   },
   {
@@ -12,7 +12,7 @@
     "name": "Email Drafter",
     "description": "Writes clear, professional emails for common scenarios: follow-ups, requests, introductions, apologies, and scheduling.",
     "submitted_by_github": "ai-partner-official",
-    "commit_sha": "fc374c5d5d22aae0fd17789fd10cf59fc57a1295",
+    "commit_sha": "096c5a879a192b90ed22dd91be380d54eb838d6f",
     "comments_issue": 8
   },
   {
@@ -20,7 +20,7 @@
     "name": "Meeting Notes Summarizer",
     "description": "Turns raw meeting notes or transcripts into a clean summary with clear action items and owners.",
     "submitted_by_github": "ai-partner-official",
-    "commit_sha": "fc374c5d5d22aae0fd17789fd10cf59fc57a1295",
+    "commit_sha": "096c5a879a192b90ed22dd91be380d54eb838d6f",
     "comments_issue": 9
   },
   {
@@ -28,7 +28,7 @@
     "name": "Resume & Cover Letter Writer",
     "description": "Helps tailor a resume bullet list and write a cover letter for a specific job posting.",
     "submitted_by_github": "ai-partner-official",
-    "commit_sha": "fc374c5d5d22aae0fd17789fd10cf59fc57a1295",
+    "commit_sha": "096c5a879a192b90ed22dd91be380d54eb838d6f",
     "comments_issue": 10
   },
   {
@@ -36,7 +36,7 @@
     "name": "Social Media Writer",
     "description": "Drafts engaging posts and captions for Twitter/X, LinkedIn, and Instagram, with hashtag suggestions and platform-appropriate tone.",
     "submitted_by_github": "ai-partner-official",
-    "commit_sha": "fc374c5d5d22aae0fd17789fd10cf59fc57a1295",
+    "commit_sha": "096c5a879a192b90ed22dd91be380d54eb838d6f",
     "comments_issue": 11
   },
   {
@@ -44,7 +44,7 @@
     "name": "Study Coach",
     "description": "Breaks study material into flashcards, practice questions, and a spaced-repetition study plan.",
     "submitted_by_github": "ai-partner-official",
-    "commit_sha": "fc374c5d5d22aae0fd17789fd10cf59fc57a1295",
+    "commit_sha": "096c5a879a192b90ed22dd91be380d54eb838d6f",
     "comments_issue": 12
   }
 ]
