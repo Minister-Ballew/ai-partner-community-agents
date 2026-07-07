@@ -71,7 +71,7 @@ def llm_review(agent: dict) -> dict:
         timeout=30,
     )
     if not r.ok:
-        return {"verdict": "error", "reason": f"HTTP {r.status_code} from Anthropic API"}
+        return {"verdict": "error", "reason": f"HTTP {r.status_code} from Anthropic API: {r.text[:300]}"}
     try:
         text = r.json()["content"][0]["text"]
         parsed = json.loads(text[text.index("{"):text.rindex("}") + 1])
